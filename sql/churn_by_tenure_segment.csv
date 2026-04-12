@@ -1,0 +1,5 @@
+segment,total,churned,churn_rate_pct
+Early (0-12m),2186,1037,47.44
+Growing (13-24m),1024,294,28.71
+Loyal (49+m),2239,213,9.51
+Mature (25-48m),1594,325,20.39

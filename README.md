@@ -186,7 +186,7 @@ Interactive slicer by contract type filtering 4 charts: internet service breakdo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/product-analyst-project.git
+git clone https://github.com/LokeshGaddam14/product-analyst-project.git
 cd product-analyst-project
 ```
 

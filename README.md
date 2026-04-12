@@ -178,7 +178,7 @@ Month-to-month customers churn at **15x the rate** of two-year contract customer
 ![Churn Deep Dive](visuals/dashboard_page2.png)
 
 ### Page 3 — Model Output
-![Model Output](visuals/dashboard_page3.png)
+![Model Output]('https://drive.google.com/file/d/1_wKjEV9DRVYieAdSftzD6BCST7PpjM6E/view?usp=sharing')
 ---
 
 ## How to Run

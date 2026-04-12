@@ -230,6 +230,6 @@ Electronic check customers churn at 45% vs 15% for auto-pay customers. Even a sm
 
 Built as a portfolio project demonstrating end-to-end product analytics skills: data wrangling, exploratory analysis, SQL, machine learning, explainability, and business intelligence dashboarding.
 
-**Author:** [Your Name]
+**Author:** Lokesh Gaddam
 **LinkedIn:** [Your LinkedIn URL]
 **Dataset:** [Telco Customer Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)

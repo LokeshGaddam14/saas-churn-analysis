@@ -186,8 +186,8 @@ Month-to-month customers churn at **15x the rate** of two-year contract customer
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/LokeshGaddam14/product-analyst-project.git
-cd product-analyst-project
+git clone https://github.com/LokeshGaddam14/saas-churn-analysis.git
+cd saas-churn-analysis
 ```
 
 ### 2. Install dependencies

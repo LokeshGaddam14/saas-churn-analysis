@@ -1,3 +1,4 @@
+<img width="1832" height="1004" alt="Screenshot 2026-04-12 211351" src="https://github.com/user-attachments/assets/ba67098b-d9b1-4d4e-9f24-2d0aae99e7ba" />
 # SaaS Product Analytics — Customer Churn Analysis
 
 > End-to-end product analytics project covering data cleaning, EDA, SQL analysis, ML modeling with explainability, and an interactive Power BI dashboard.
@@ -172,13 +173,16 @@ Month-to-month customers churn at **15x the rate** of two-year contract customer
 ## Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](visuals/dashboard_page1.png)
+![Executive Overview](<img width="1826" height="1002" alt="Screenshot 2026-04-12 211302" src="https://github.com/user-attachments/assets/097d4eec-bd4c-489f-be21-3a78205e4c95" />
+)
 
 ### Page 2 — Churn Deep Dive
-![Churn Deep Dive](visuals/dashboard_page2.png)
+![Churn Deep Dive](<img width="1824" height="1002" alt="Screenshot 2026-04-12 211321" src="https://github.com/user-attachments/assets/5609431f-e3ab-46d9-ad3d-e1bc133dcc35" />
+)
 
 ### Page 3 — Model Output
-![Model Output]('https://drive.google.com/file/d/1_wKjEV9DRVYieAdSftzD6BCST7PpjM6E/view?usp=sharing')
+![Model Output](<img width="1832" height="1004" alt="Screenshot 2026-04-12 211351" src="https://github.com/user-attachments/assets/dd2b95e9-2b2f-4917-b052-7bb0f2af4f73" />
+)
 ---
 
 ## How to Run

@@ -169,17 +169,16 @@ Month-to-month customers churn at **15x the rate** of two-year contract customer
 
 ## Dashboard Preview
 
-See `dashboard_preview.pdf` for the full 3-page dashboard.
+## Dashboard Preview
 
-**Page 1 — Executive Overview**
-KPI cards showing 7K customers, 26.54% churn rate, $139K monthly revenue lost, $1.67M annualized revenue lost.
+### Page 1 — Executive Overview
+![Executive Overview](visuals/dashboard_page1.png)
 
-**Page 2 — Churn Deep Dive**
-Interactive slicer by contract type filtering 4 charts: internet service breakdown, payment method churn, senior citizen churn, tenure vs charges scatter.
+### Page 2 — Churn Deep Dive
+![Churn Deep Dive](visuals/dashboard_page2.png)
 
-**Page 3 — Model Output**
-282 high-risk customers identified. At-risk table with red gradient conditional formatting on predicted churn probability.
-
+### Page 3 — Model Output
+![Model Output](visuals/dashboard_page3.png)
 ---
 
 ## How to Run

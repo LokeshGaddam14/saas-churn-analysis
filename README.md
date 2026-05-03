@@ -8,6 +8,8 @@
 
 This project analyzes customer churn for a SaaS telecom provider using the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (7,043 customers, 21 features). The goal is to identify which customers are most likely to churn, understand the drivers behind churn, and quantify the business impact — delivering actionable insights a product or retention team can act on immediately.
 
+The behavioral signals that predict telecom churn — declining engagement, payment friction, short tenure, high monthly charges — map directly to the credit card attrition patterns tracked by institutions like AmEx, Citi, and HSBC. Early-tenure churn risk mirrors early delinquency curves in credit portfolios; contract-type loyalty mirrors revolving vs. transactor behavior. This project demonstrates that retention analytics and credit risk analytics share the same underlying framework: segment, model, explain, act.
+
 **Key result:** LightGBM model achieved **AUC-ROC of 0.848**, identifying a high-risk customer segment responsible for over **$1.67M in annualized revenue loss**.
 
 ---

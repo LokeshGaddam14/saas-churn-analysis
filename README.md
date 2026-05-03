@@ -230,8 +230,6 @@ Electronic check customers churn at 45% vs 15% for auto-pay customers. Even a sm
 
 ## About
 
-## About
-
 Built as a portfolio project demonstrating end-to-end product analytics skills: data wrangling, exploratory analysis, SQL, machine learning, explainability, and business intelligence dashboarding.
 
 **Lokesh Gaddam**  
